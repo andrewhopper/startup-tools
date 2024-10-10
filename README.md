@@ -117,7 +117,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Flight Control
 - Port7777
 
-# BI
+# Business Intelligence & Analytics
 - Metabase
 - Tailscale
 
