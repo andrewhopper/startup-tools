@@ -53,9 +53,16 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Voltage Park
 - CoreWeave
 
+# Product Analtics
+- Posthog
+- Amplitude
+
 # Frontend tooling
 - NextJS
 
+# Design Tools
+- Figma
+- 
 # Frontend Hosting
 - Vercel
 - AWS Amplify
@@ -77,6 +84,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Infra orchestration & tooling
 - Porter
+- CDK
 - Flight Control
 - Port7777
 
