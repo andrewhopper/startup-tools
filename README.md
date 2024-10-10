@@ -25,6 +25,10 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Vellum
 - Composio
 
+# Voice Agent Platforms
+- Retell
+- vocode
+
 # Doc Processing (I need to process documents or PDFs)
 - Reducto
 - Mindee
