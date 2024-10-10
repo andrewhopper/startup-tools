@@ -1,5 +1,5 @@
 # startup-tools
-I work with hundreds of startups each year in my role.  These are some of the common tools I see folks using to accelerate their work.
+I work with hundreds of startups each year in my role.  These are some of the common tools I see folks using to accelerate their work.  These are in no particular order and I am not endorsing any of these vendors.
 
 # Observability
 - New Relic
@@ -47,6 +47,14 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Fireworks
 - Groq
 - Runpod
+- AWS Bedrock
+
+# Models
+- Llama3
+- OpenAI GPT
+- https://huggingface.co/nvidia/NVLM-D-72B
+- Mistral
+- Anthropic Claude
 
 # GPUs
 - Lambda Labs
