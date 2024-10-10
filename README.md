@@ -103,6 +103,13 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Vercel
 - AWS Amplify
 
+# Compliance (HIPAA, SOC2, PCI, etc)
+- Drata
+- SecureFrame
+- Tugboat
+- DashSDK
+- Vanta
+
 # Backend tooling
 - FastAPI
 - Flask
