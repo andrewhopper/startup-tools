@@ -130,3 +130,8 @@ New models are coming out nearly daily.  By the time you figure how how to find 
 ## k8?
 
 No, don't use Kubernetes unless you have a business requirement for it.
+
+# Companies and trends to watch
+
+* https://www.instantdb.com/ (build apps with data fragments instead of data objects)
+
