@@ -32,6 +32,10 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Sendgrid
 - Resend
 
+# Backend frameworks
+- Supabase
+- Firebase
+
 # TTS (Text to speech)
 - Eleven Labs
 - Play.ht
@@ -51,6 +55,10 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Frontend tooling
 - NextJS
+
+# Frontend Hosting
+- Vercel
+- AWS Amplify
 
 # Backend tooling
 - FastAPI
@@ -75,3 +83,13 @@ I work with hundreds of startups each year in my role.  These are some of the co
 # BI
 - Metabase
 - Tailscale
+
+# Common topics?
+
+## Prompt engineering or fine tuning?
+
+New models are coming out nearly daily.  By the time you figure how how to find tune a new model will be released with better performance.  Focus on prompt engineering.
+
+## k8?
+
+No, don't use Kubernetes unless you have a business requirement for it.
