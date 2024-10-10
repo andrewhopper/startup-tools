@@ -1,33 +1,38 @@
 # startup-tools
 I work with hundreds of startups each year in my role.  These are some of the common tools I see folks using to accelerate their work.  These are in no particular order and I am not endorsing any of these vendors.
 
-# Observability
+# Observability (What's happening in my app?)
 - New Relic
 - Data Dog
 - Post Hog
 
-# Exception Tracking
+# Exception Tracking (I want to see errors before my users do)
 - Sentry
 - Airbrake
 - PostHog
 
-# Auth
+# Auth (I need to add login to my app)
 - PropelAuth
 - Auth0
 - Clerk
 - Keycloak
+- AWS Cognito
 
-# LLM Tooling
+# LLM Tooling (I want to accelerate LLM integration)
 - Langchain
 - Langfuse
 - BAML
 - Vellum
+- Composio
 
-# Doc Processing
+# Doc Processing (I need to process documents or PDFs)
 - Reducto
 - Mindee
+- LayoutLLM
+- AWS Textract & Comprehend
+- Multi-modal LLMs direct (OpenAI & Claude)
 
-# Email/SMS
+# Email/SMS (I need to send emails/SMS)
 - Twilio
 - Sendgrid
 - Resend
@@ -42,7 +47,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - OpenAI Whisper
 - Cartesia
 
-# AI Inference
+# AI Inference (I need to host or access a model)
 - Modal
 - Fireworks
 - Groq
@@ -57,10 +62,16 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Anthropic Claude
 
 # GPUs
+- AWS
 - Lambda Labs
 - SF Compute
 - Voltage Park
 - CoreWeave
+
+# Product Tracking (Session recording)
+- Fullstory
+- Pendo
+- Posthog
 
 # Product Analtics
 - Posthog
@@ -71,7 +82,16 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Design Tools
 - Figma
-- 
+
+# Website builders/marketing sites
+- Framer
+
+# Nocode app builders
+- Retool
+
+# Payments
+- Stripe
+
 # Frontend Hosting
 - Vercel
 - AWS Amplify
