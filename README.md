@@ -93,6 +93,9 @@ I work with hundreds of startups each year in my role.  These are some of the co
 # Nocode app builders
 - Retool
 
+# Prompt Engineering
+- https://www.promptingguide.ai/
+- 
 # Payments
 - Stripe
 
