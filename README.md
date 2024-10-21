@@ -15,6 +15,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - PropelAuth
 - Auth0
 - Clerk
+- https://supertokens.com/
 - Keycloak
 - AWS Cognito
 
@@ -24,6 +25,8 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - BAML
 - Vellum
 - Composio
+- HumanLayer
+- LangGraph
 
 # Voice Agent Platforms
 - Retell
@@ -86,6 +89,8 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Design Tools
 - Figma
+- https://moqups.com/
+- Sketch
 
 # Website builders/marketing sites
 - Framer
@@ -102,6 +107,12 @@ I work with hundreds of startups each year in my role.  These are some of the co
 # Frontend Hosting
 - Vercel
 - AWS Amplify
+
+# Remote Collaboration
+- Miro
+
+# UI Generation
+- https://v0.dev/
 
 # Compliance (HIPAA, SOC2, PCI, etc)
 - Drata
@@ -134,6 +145,10 @@ I work with hundreds of startups each year in my role.  These are some of the co
 # Business Intelligence & Analytics
 - Metabase
 - Tailscale
+
+# Landing pages
+- https://www.framer.com/
+- https://www.sitekick.ai/
 
 # Common topics?
 
