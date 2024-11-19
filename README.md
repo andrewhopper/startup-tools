@@ -54,6 +54,13 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - OpenAI Whisper
 - Cartesia
 
+# Multi-modal open source
+- https://github.com/gpt-omni/mini-omni
+- https://github.com/ictnlp/LLaMA-Omni
+- https://github.com/livekit/agents
+- https://github.com/kyutai-labs/moshi
+- https://emova-ollm.github.io/
+
 # AI Inference (I need to host or access a model)
 - Modal
 - Fireworks
@@ -63,6 +70,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Models
 - Llama3
+  Qwen
 - OpenAI GPT
 - https://huggingface.co/nvidia/NVLM-D-72B
 - Mistral
@@ -159,6 +167,9 @@ New models are coming out nearly daily.  By the time you figure how how to find 
 ## k8?
 
 No, don't use Kubernetes unless you have a business requirement for it.
+
+# Safety & Bias
+- https://arxiv.org/pdf/2410.24190 (Bias in LLM models)
 
 # Companies and trends to watch
 
