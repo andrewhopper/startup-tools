@@ -68,6 +68,11 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Runpod
 - AWS Bedrock
 
+# LLM Routers & Proxys
+- LiteLLM
+- OpenRouter
+
+
 # Models
 - Llama3
   Qwen
