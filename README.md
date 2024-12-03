@@ -23,6 +23,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Langchain
 - Langfuse
 - BAML
+- Zenbase - https://github.com/zenbase-ai
 - Vellum
 - Composio
 - HumanLayer
