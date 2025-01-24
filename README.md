@@ -164,6 +164,12 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - https://www.framer.com/
 - https://www.sitekick.ai/
 
+# To Sort
+- Crew
+- Flowise
+- Autogen
+- Dynamiq
+  
 # Common topics?
 
 ## Prompt engineering or fine tuning?
