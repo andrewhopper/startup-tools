@@ -5,6 +5,8 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - New Relic
 - Data Dog
 - Post Hog
+- Sentry
+- AWS Cloud Watch
 
 # Exception Tracking (I want to see errors before my users do)
 - Sentry
