@@ -166,6 +166,15 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - https://www.framer.com/
 - https://www.sitekick.ai/
 
+# Audio diarization
+- https://paperswithcode.com/method/sepformer
+- https://github.com/JusperLee/Dual-Path-RNN-Pytorch
+- https://github.com/JusperLee/Conv-TasNet
+- https://github.com/asteroid-team/asteroid
+- https://docs.nvidia.com/nemo-framework/user-guide/24.09/nemotoolkit/asr/speaker_diarization/intro.html
+- https://github.com/speechbrain/speechbrain
+
+
 # To Sort
 - Crew
 - Flowise
