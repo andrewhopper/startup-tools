@@ -182,6 +182,9 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - https://docs.nvidia.com/nemo-framework/user-guide/24.09/nemotoolkit/asr/speaker_diarization/intro.html
 - https://github.com/speechbrain/speechbrain
 
+# Object detection
+https://github.com/matterport/Mask_RCNN
+https://paperswithcode.com/method/retinanet
 
 # To Sort
 - Crew
