@@ -1,10 +1,31 @@
 # startup-tools
 I work with hundreds of startups each year in my role.  These are some of the common tools I see folks using to accelerate their work.  These are in no particular order and I am not endorsing any of these vendors.
 
+# AI Coding Tools
+- Cursor
+- Cline
+- Devin
+- Continue
+- Cody
+- Aider
+
+
+# Multi Agent Frameworks
+- CrewAi
+- AWS Multi Agent Orch
+- AWS Bedrock Multi Agent (preview)
+- LangChain
+- LlamaIndex
+- Dynamiq
+- Autogen
+
+
 # Observability (What's happening in my app?)
 - New Relic
 - Data Dog
 - Post Hog
+- Sentry
+- AWS Cloud Watch
 
 # Exception Tracking (I want to see errors before my users do)
 - Sentry
@@ -50,6 +71,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Langchain
 - Langfuse
 - BAML
+- Zenbase - https://github.com/zenbase-ai
 - Vellum
 - Composio
 - HumanLayer
@@ -83,6 +105,13 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - OpenAI Whisper
 - Cartesia
 
+# Multi-modal open source
+- https://github.com/gpt-omni/mini-omni
+- https://github.com/ictnlp/LLaMA-Omni
+- https://github.com/livekit/agents
+- https://github.com/kyutai-labs/moshi
+- https://emova-ollm.github.io/
+
 # AI Inference (I need to host or access a model)
 - Modal
 - BaseTen
@@ -92,8 +121,18 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Runpod
 - AWS Bedrock
 
+# LLM Routers & Proxys
+- LiteLLM
+- OpenRouter
+
+# LLM Interoperability
+* llms.txt - https://llmstxt.org/
+* agents.json - https://github.com/wild-card-ai/agents-json
+
+
 # Models
 - Llama3
+  Qwen
 - OpenAI GPT
 - https://huggingface.co/nvidia/NVLM-D-72B
 - Mistral
@@ -214,6 +253,24 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - ClaudeCode
 - Amazon Q CLI
 
+# Audio diarization
+- https://paperswithcode.com/method/sepformer
+- https://github.com/JusperLee/Dual-Path-RNN-Pytorch
+- https://github.com/JusperLee/Conv-TasNet
+- https://github.com/asteroid-team/asteroid
+- https://docs.nvidia.com/nemo-framework/user-guide/24.09/nemotoolkit/asr/speaker_diarization/intro.html
+- https://github.com/speechbrain/speechbrain
+
+# Object detection
+https://github.com/matterport/Mask_RCNN
+https://paperswithcode.com/method/retinanet
+
+# To Sort
+- Crew
+- Flowise
+- Autogen
+- Dynamiq
+  
 # Common topics?
 
 ## Prompt engineering or fine tuning?
@@ -223,6 +280,9 @@ New models are coming out every day.  By the time you figure how how to find tun
 ## k8?
 
 No, don't use Kubernetes unless you have a business requirement for it.
+
+# Safety & Bias
+- https://arxiv.org/pdf/2410.24190 (Bias in LLM models)
 
 # Companies and trends to watch
 
