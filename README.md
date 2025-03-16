@@ -19,6 +19,33 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Keycloak
 - AWS Cognito
 
+# AI Orchestration
+- Flowise
+- Gumloop
+- Dynamiq
+- CrewAI
+- AWS Bedrock Agents
+- AG2 (aka Autogen)
+
+# Structured Generation
+- BoundryML (BAML)
+- DotTxt Outlines / https://github.com/dottxt-ai/outlines
+
+
+# RPA / Browser Automation
+- https://browser-use.com/
+- https://www.skyvern.com/
+
+
+# AI SDLC Tools
+- https://github.com/qodo-ai/pr-agent (AI PR reviews)
+- https://www.ellipsis.dev/
+
+# Agent marketplaces and networks
+- https://soverin.ai/
+- https://agent.ai/
+
+
 # LLM Tooling (I want to accelerate LLM integration)
 - Langchain
 - Langfuse
@@ -27,6 +54,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Composio
 - HumanLayer
 - LangGraph
+- https://www.llamaindex.ai/
 
 # Voice Agent Platforms
 - Retell
@@ -38,6 +66,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - LayoutLLM
 - AWS Textract & Comprehend
 - Multi-modal LLMs direct (OpenAI & Claude)
+- Mistral (https://mistral.ai/news/mistral-ocr)
 
 # Email/SMS (I need to send emails/SMS)
 - Twilio
@@ -56,6 +85,8 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # AI Inference (I need to host or access a model)
 - Modal
+- BaseTen
+- Beam
 - Fireworks
 - Groq
 - Runpod
@@ -110,9 +141,21 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # Remote Collaboration
 - Miro
+- https://excalidraw.com/
+
+# App Generators
+- Bolt
+- Lovable
+- Spawn
+- Marbelism
+
+# MCP Directories
+- Smithery
+- MCP.so
 
 # UI Generation
 - https://v0.dev/
+- [Magic](https://www.magicpatterns.com/)
 
 # Compliance (HIPAA, SOC2, PCI, etc)
 - Drata
@@ -125,19 +168,34 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - FastAPI
 - Flask
 
+# AI Coding
+- Amazon Q
+- Cursor
+- Codium/Qodo
+- Windsurf
+- Codebuff
+- Cline
+- Devin
+- OpenDevin
+- Pythagora
+- Marbelism
+
 # AI Orchestration
 - OpenRouter
+- LiteLLM 
 
 # Orhchestration & Scheduling
 - Temporal
+- AWS Step Functions
 
 # Serverless
 - SAM
-- CDK
-- SST
+- CDK - https://aws.amazon.com/cdk/
+- SST - https://sst.dev/
 
 # Infra orchestration & tooling
 - Porter
+- FlightControl
 - CDK
 - Flight Control
 - Port7777
@@ -149,12 +207,18 @@ I work with hundreds of startups each year in my role.  These are some of the co
 # Landing pages
 - https://www.framer.com/
 - https://www.sitekick.ai/
+- https://webflow.com/
+
+# CLI Helper
+- https://github.com/sigoden/aichat
+- ClaudeCode
+- Amazon Q CLI
 
 # Common topics?
 
 ## Prompt engineering or fine tuning?
 
-New models are coming out nearly daily.  By the time you figure how how to find tune a new model will be released with better performance.  Focus on prompt engineering.
+New models are coming out every day.  By the time you figure how how to find tune a new model will be released with better performance.  Focus on prompt engineering and inference time fine tuning.
 
 ## k8?
 
