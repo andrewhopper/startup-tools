@@ -3,12 +3,17 @@ I work with hundreds of startups each year in my role.  These are some of the co
 
 # AI Coding Tools
 - Cursor
-- Cline
 - Devin
 - Continue
 - Cody
 - Aider
-
+- AmazonQ
+- Windsurf
+- Codebuff
+- Cline
+- OpenDevin
+- Pythagora
+- Roocode
 
 # Multi Agent Frameworks
 - CrewAi
@@ -207,17 +212,6 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - FastAPI
 - Flask
 
-# AI Coding
-- Amazon Q
-- Cursor
-- Codium/Qodo
-- Windsurf
-- Codebuff
-- Cline
-- Devin
-- OpenDevin
-- Pythagora
-- Marbelism
 
 # AI Orchestration
 - OpenRouter
