@@ -24,6 +24,15 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Dynamiq
 - Autogen
 
+# MCP Resources
+ - https://mcp.so/
+ - https://smithery.ai/
+ - https://glama.ai/mcp/servers
+
+# LLM Testing & Evals
+ - https://www.promptfoo.dev/
+ - https://docs.confident-ai.com/
+
 
 # Observability (What's happening in my app?)
 - New Relic
