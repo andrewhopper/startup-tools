@@ -14,6 +14,10 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - OpenDevin
 - Pythagora
 - Roocode
+- ClaudeCode
+- Augment - https://www.augmentcode.com/
+- https://www.factory.ai/
+- https://duplocloud.com/home-r2
 
 # AI coding best practices
 - https://playbooks.com/
