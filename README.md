@@ -5,7 +5,7 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Cursor
 - Devin
 - Continue
-- Cody
+- Cody - https://sourcegraph.com/cody
 - Aider
 - AmazonQ
 - Windsurf
