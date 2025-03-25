@@ -15,6 +15,11 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - Pythagora
 - Roocode
 
+# AI coding best practices
+- https://playbooks.com/
+-  https://cursor.directory/
+- https://docs.cline.bot/improving-your-prompting-skills/cline-memory-bank
+
 # Multi Agent Frameworks
 - CrewAi
 - AWS Multi Agent Orch
@@ -22,6 +27,11 @@ I work with hundreds of startups each year in my role.  These are some of the co
 - LangChain
 - LlamaIndex
 - Dynamiq
+- Flowise
+- Gumloop
+- n8n
+- Xpander
+- Owl
 - Autogen
 
 # MCP Resources
