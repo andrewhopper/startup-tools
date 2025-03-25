@@ -1,5 +1,5 @@
 # startup-tools
-I work with hundreds of startups each year in my role.  These are some of the common tools I see folks using to accelerate their work.  These are in no particular order and I am not endorsing any of these vendors.
+I work with hundreds of startups each year.  These are some of the common tools I see.  These are in no particular order and I am not endorsing any of these vendors.
 
 # AI Coding Tools
 - Cursor
