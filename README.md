@@ -19,6 +19,13 @@ I work with hundreds of startups each year.  These are some of the common tools 
 - https://www.factory.ai/
 - https://duplocloud.com/home-r2
 
+# MCP Resources
+* https://mcp.so/
+* https://cursor.directory/mcp
+* https://playbooks.com/mcp
+* https://github.com/cline/mcp-marketplace
+* https://glama.ai/mcp/servers
+
 # AI coding best practices
 - https://playbooks.com/
 -  https://cursor.directory/
