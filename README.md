@@ -29,6 +29,7 @@ iOS
 * https://playbooks.com/mcp
 * https://github.com/cline/mcp-marketplace
 * https://glama.ai/mcp/servers
+* https://github.com/punkpeye/awesome-mcp-servers
 
 # AI coding best practices
 - https://playbooks.com/
