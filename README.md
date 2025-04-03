@@ -96,6 +96,7 @@ iOS
 # RPA / Browser Automation
 - https://browser-use.com/
 - https://www.skyvern.com/
+- https://github.com/aws/nova-act (AWS Nova Act)
 
 
 # AI SDLC Tools
@@ -299,6 +300,8 @@ https://paperswithcode.com/method/retinanet
 - Flowise
 - Autogen
 - Dynamiq
+- https://github.com/agno-agi/agno
+- https://github.com/mastra-ai/mastra
   
 # Common topics?
 
