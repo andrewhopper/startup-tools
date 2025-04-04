@@ -80,10 +80,10 @@ iOS
 - Keycloak
 - AWS Cognito
 
-# AI Orchestration
-- Flowise
-- Gumloop
-- Dynamiq
+# Agentic AI Frameworks
+- https://github.com/camel-ai/owl
+- https://github.com/agno-agi/agno
+- https://github.com/mastra-ai/mastra
 - CrewAI
 - AWS Bedrock Agents
 - AG2 (aka Autogen)
@@ -295,14 +295,13 @@ iOS
 https://github.com/matterport/Mask_RCNN
 https://paperswithcode.com/method/retinanet
 
-# To Sort
-- Crew
+# Low code/no code agents
 - Flowise
-- Autogen
-- Dynamiq
-- https://github.com/agno-agi/agno
-- https://github.com/mastra-ai/mastra
-  
+- Gumloop
+- Lindy
+- n8n
+- VectorShift
+
 # Common topics?
 
 ## Prompt engineering or fine tuning?
