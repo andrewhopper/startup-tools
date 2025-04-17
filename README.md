@@ -6,6 +6,13 @@ I work with hundreds of startups each year.  These are some of the common tools 
 * https://github.com/aws-samples/amazon-bedrock-client-for-mac
 * https://github.com/danny-avila/LibreChat
 * https://github.com/open-webui/open-webui
+
+# Zero ETL Tools
+* Stitch
+* FiveTran
+* AWS Zero ETL
+* Debezium
+* Bucado
   
 # AI Code Execution Sandboxes
 * https://github.com/e2b-dev/E2B
