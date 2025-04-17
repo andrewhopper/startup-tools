@@ -11,6 +11,7 @@ I work with hundreds of startups each year.  These are some of the common tools 
 * https://github.com/e2b-dev/E2B
 * https://github.com/huggingface/smolagents
 * https://github.com/open-webui/open-webui
+* https://github.com/ColeMurray/ai-code-agent-environment
 
 # AI Coding Tools
 - Cursor
