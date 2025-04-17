@@ -7,6 +7,13 @@ I work with hundreds of startups each year.  These are some of the common tools 
 * https://github.com/danny-avila/LibreChat
 * https://github.com/open-webui/open-webui
 
+# Automation
+* Claude Computer Use
+* StageHand
+* https://generalagents.com/ (ACE) - new foundation model
+* BrowserBase
+* NovaAct
+
 # Zero ETL Tools
 * Stitch
 * FiveTran
