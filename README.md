@@ -89,6 +89,8 @@ I work with hundreds of startups each year.  These are some of the common tools 
 - Sentry
 - AWS Cloud Watch
 
+- 
+
 # Exception Tracking (I want to see errors before my users do)
 - Sentry
 - Airbrake
@@ -200,6 +202,8 @@ I work with hundreds of startups each year.  These are some of the common tools 
 - https://huggingface.co/nvidia/NVLM-D-72B
 - Mistral
 - Anthropic Claude
+- Luma
+- Poolside
 
 # GPUs
 - AWS
