@@ -1,6 +1,11 @@
 # startup-tools
 I work with hundreds of startups each year.  These are some of the common tools I see.  These are in no particular order and I am not endorsing any of these vendors.
 
+# AI Code Execution Sandboxes
+* https://github.com/e2b-dev/E2B
+* https://github.com/huggingface/smolagents
+* https://github.com/open-webui/open-webui
+
 # AI Coding Tools
 - Cursor
 - Devin
